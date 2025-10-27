@@ -21,6 +21,12 @@ Validation Accuracy: **~65%**
 - pandas  
 - numpy  
 
+
+OUTPUT SCREENSHOT
+<img width="547" height="413" alt="Screenshot 2025-10-27 104908" src="https://github.com/user-attachments/assets/b7cfecf6-e53a-46b3-8bc0-fcdec17cf513" />
+
+
+
 ## 💡 Future Improvements
 - Use deep learning (BERT, DistilBERT)
 - Handle multi-label genres
@@ -31,3 +37,5 @@ Pull requests are welcome! If you'd like to make this project better, feel free 
 
 ## 📫 Contact
 Created by [Prashant-Guttedar ] (https://github.com/prashant-guttedar/-MOVIE-GENRE-CLASSIFICATION)
+
+
